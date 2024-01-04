@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Restaurant Manager</string>
+    <string name="is_first_run">is_first_run</string>
+</resources>
